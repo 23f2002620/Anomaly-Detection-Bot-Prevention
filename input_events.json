@@ -1,0 +1,24 @@
+[
+  {
+    "user_id": "user_1",
+    "ip_address": "10.0.0.1",
+    "device_fingerprint": "ABC123XYZ999",
+    "login_hour": 15,
+    "logins_from_ip_24h": 5,
+    "accounts_created_from_ip_24h": 1,
+    "messages_sent_last_hour": 10,
+    "reports_last_24h": 0,
+    "is_duplicate_device": 0
+  },
+  {
+    "user_id": "bot_99",
+    "ip_address": "50.22.33.11",
+    "device_fingerprint": "BOT999AAAA11",
+    "login_hour": 2,
+    "logins_from_ip_24h": 30,
+    "accounts_created_from_ip_24h": 8,
+    "messages_sent_last_hour": 120,
+    "reports_last_24h": 5,
+    "is_duplicate_device": 1
+  }
+]
